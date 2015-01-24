@@ -1,0 +1,14 @@
+# Site settings
+title: Jesse's Blog
+email: jesse@jshawl.com
+description: > # this means to ignore newlines until "baseurl:"
+  Jesse Shawl is a Web Development Immersive Instructor at
+  General Assembly in Washington, DC.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://jshawl.github.io" # the base hostname & protocol for your site
+twitter_username: jshawl
+github_username:  jshawl
+permalink: /:title/
+
+# Build settings
+markdown: kramdown
